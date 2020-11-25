@@ -1,13 +1,13 @@
 {
-  "name": "ELAINABOT",
+  "name": "BM-BOT",
   "version": "10.0.0",
-  "description": "THX FOR MHANKBARBAR AS MY FRIEND, REEDIT BY TOBZ",
+  "description": "THX FOR MHANKBARBAR AS MY FRIEND, REEDIT BY BINN",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "TOBZ",
+  "author": "BINN",
   "license": "Apache-2.0",
   "dependencies": {
     "@open-wa/wa-automate": "^3.0.15",
@@ -56,7 +56,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TobyG74/ElainaBOT",
+    "url": "git+https://github.com/bintang2412/BM-BOT",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.9.0",
     "eslint-config-standard": "^14.1.1",
@@ -69,7 +69,7 @@
     "Whatsapp-Bot"
   ],
   "bugs": {
-    "url": "https://github.com/TobyG74/issues"
+    "url": "https://github.com/bintang2412/BM-BOT/issues"
   },
-  "homepage": "https://github.com/TobyG74/"
+  "homepage": "https://github.com/bintang2412/"
 }
