@@ -2,16 +2,16 @@
 <img src="https://media.giphy.com/media/4dM1U76aAQ3dbE6bc3/giphy.gif" alt="GIF" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="ELAINA BOT" src="https://img.shields.io/badge/ELAINA BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="BM-BOT" src="https://img.shields.io/badge/BM-BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/TobyG74"><img title="Author" src="https://img.shields.io/badge/Author-Tobz-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/bintang2412"><img title="Author" src="https://img.shields.io/badge/Author-binn-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/TobyG74/followers"><img title="Followers" src="https://img.shields.io/github/followers/TobyG74?color=blue&style=flat-square"></a>
-<a href="https://github.com/TobyG74/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TobyG74/ElainaBOT?color=red&style=flat-square"></a>
-<a href="https://github.com/TobyG74/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TobyG74/ElainaBOT?color=red&style=flat-square"></a>
-<a href="https://github.com/TobyG74/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TobyG74/ElainaBOT?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/bintang2412/followers"><img title="Followers" src="https://img.shields.io/github/followers/TobyG74?color=blue&style=flat-square"></a>
+<a href="https://github.com/bintang2412/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/bintang2412/BM-BOT?color=red&style=flat-square"></a>
+<a href="https://github.com/bintang2412/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/bintang2412/BM-BOT?color=red&style=flat-square"></a>
+<a href="https://github.com/bintang2412/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/bintang2412/BM-BOT?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## Information
@@ -25,10 +25,10 @@ ownerNumber = "6213xxxxxx@c.us"
 
 If you find some bugs please contact the WhatsApp number on Contact
 
-- [Telegram](https://t.me/tobz2k19)
-- [Whatsapp](https://wa.me/6281311850715)
-- [BOT WA](wa.me/447723992261)
-- [GROUP WA](https://chat.whatsapp.com/InZrGpgBBNB4hnS7Q6sVJG)
+- [Telegram](https://t.me/BINN24)
+- [Whatsapp](https://wa.me/628987273758)
+- [BOT WA](wa.me/6281280568535)
+- [GROUP WA](https://chat.whatsapp.com/G3fXf4NumHn8aa0ii1xcVC)
 
 ## APIKEY
 Open tobz.js then edit & paste it in YOUR_APIKEY
